@@ -1,1 +1,2 @@
 Bundle 'leafgarland/typescript-vim'
+Bundle 'HerringtonDarkholme/yats.vim'
