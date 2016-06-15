@@ -6,3 +6,5 @@ let g:airline_theme='powerlineish'
 
 let g:typescript_compiler_binary = 'tsc'
 let g:typescript_compiler_options = ''
+
+syntax on
