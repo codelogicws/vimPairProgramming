@@ -1,4 +1,3 @@
-set relativenumber
 :command Cb edit ~/.pairConfig/cheatSheets/cheatBash
 :command Cv edit ~/.pairConfig/cheatSheets/cheatVim
 :command Ct edit ~/.pairConfig/cheatSheets/cheatTmux
