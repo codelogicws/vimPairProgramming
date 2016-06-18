@@ -9,7 +9,7 @@ POWERLINE_BASH_SELECT=1
 . /usr/local/lib/python2.7/dist-packages/powerline/bindings/bash/powerline.sh
 
 
-alias menu='~/.pairConfig/scripts/tmuxinatorMenu'
+alias menu='~/workspace/demo'
 alias edit='tmuxinator edit TS'
 
 # TMUX
